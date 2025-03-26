@@ -3,9 +3,9 @@
 
 
 "@babel/standalone@^7.0.0":
-  version "7.26.10"
-  resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.26.10.tgz#1fce13e5a331a9dafff192b5db41350d72d44bed"
-  integrity sha512-AYXK0hLWfEaK9WAePJqs30qro09a8w7X3YZzjukqtLXreE7xBZYdi5EMrP87T4UrVqmQ9tIX6L6SeTu5LDh3zw==
+  version "7.27.0"
+  resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.27.0.tgz#371b553d3696c9d764d0167684b807cc4d8156c5"
+  integrity sha512-UxFDpi+BuSz6Q1X73P3ZSM1CB7Nbbqys+7COi/tdouRuaqRsJ6GAzUyxTswbqItHSItVY3frQdd+paBHHGEk9g==
 
 "@jest/types@^25.5.0":
   version "25.5.0"
@@ -1658,14 +1658,14 @@ caniuse-api@^1.5.2:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30001706"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001706.tgz#53ad94c77f486ee6e379a69f404d7a94bd6f2ed9"
-  integrity sha512-VU8G223XVwNTRSBghmexTgTnp/as9X4IIzDzLTmH+XylLkNiC5TzNCL2ift67tTE1/A29+FaXz5DM7upLXTOow==
+  version "1.0.30001707"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001707.tgz#ee0f71a718532e1aba33832bf7ea04eb4523a5d0"
+  integrity sha512-qAh4lbpYliRSGxdgUGeLYbKYu7JUikmfHp1N4GmeqMNAfXU7RssamxgR7vHNNOEP6a+devOkPS7FPrYIH+ubAA==
 
 caniuse-lite@^1.0.30000748, caniuse-lite@^1.0.30000792:
-  version "1.0.30001706"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001706.tgz#902c3f896f4b2968031c3a546ab2ef8b465a2c8f"
-  integrity sha512-3ZczoTApMAZwPKYWmwVbQMFpXBDds3/0VciVoUwPUbldlYyVLmRVuRs/PcUZtHpbLRpzzDvrvnFuREsGt6lUug==
+  version "1.0.30001707"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001707.tgz#c5e104d199e6f4355a898fcd995a066c7eb9bf41"
+  integrity sha512-3qtRjw/HQSMlDWf+X79N206fepf4SOOU6SQLMaq/0KkZLmSjPxAkBOQQ+FxbHKfHmYLZFfdWsO3KA90ceHPSnw==
 
 capture-stack-trace@^1.0.0:
   version "1.0.2"
