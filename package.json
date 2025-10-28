@@ -4,6 +4,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@aasbom/tester2": "^0.10.1",
     "@babel/cli": "^7.10.5",
     "@babel/code-frame": "^7.10.4",
     "@babel/core": "^7.11.1",
