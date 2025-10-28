@@ -1,0 +1,14 @@
+name: Debricked SCA
+
+on: [push]
+
+jobs:
+  vulnerabilities-scan-review:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: debricked/actions@v4
+        env:
+          DEBRICKED_TOKEN: ${{ secrets.DEBRICKED_TOKEN_REVIEW }}
+          DEBRICKED_URI: 'https://review-7646-allow-faeuko.review.debricked.dev'
